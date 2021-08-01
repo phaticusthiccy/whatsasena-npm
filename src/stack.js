@@ -3,3 +3,4 @@ exports.github_user = require("../lib/data/github");
 exports.github_repos = require("../lib/data/github2");
 exports.startwhatsasena = require("../lib/data/st");
 exports.qr = require("../lib/data/qr_phone");
+exports.anime = require("../lib/data/animeai");
