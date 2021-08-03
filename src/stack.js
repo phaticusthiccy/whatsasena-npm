@@ -6,5 +6,3 @@ exports.qr = require("../lib/data/qr_phone");
 exports.anime = require("../lib/data/animeai");
 exports.face = require("../lib/data/faceai");
 exports.mood = require("../lib/data/moodai");
-
-
