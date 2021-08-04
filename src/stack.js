@@ -9,3 +9,4 @@ exports.mood = require("../lib/data/moodai");
 exports.tti = require("../lib/data/ttiai");
 exports.text = require("../lib/data/textai");
 exports.daily_announcement = require("../lib/data/announcement");
+exports.work_type = require("../lib/data/worktype");
