@@ -11,3 +11,4 @@ exports.text = require("../lib/data/textai");
 exports.daily_announcement = require("../lib/data/announcement");
 exports.work_type = require("../lib/data/worktype");
 exports.eva_if = require("../lib/data/eva_if");
+exports.update_ch = require("../lib/data/update");
