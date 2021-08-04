@@ -12,3 +12,6 @@ exports.daily_announcement = require("../lib/data/announcement");
 exports.work_type = require("../lib/data/worktype");
 exports.eva_if = require("../lib/data/eva_if");
 exports.update_ch = require("../lib/data/update");
+exports.ctheme = require("../lib/data/carbon_selector_theme");
+exports.clang = require("../lib/data/carbon_selector_lang");
+exports.crgb = require("../lib/data/carbon_selector_rgb");
