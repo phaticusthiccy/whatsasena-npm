@@ -16,3 +16,4 @@ exports.ctheme = require("../lib/data/carbon_selector_theme");
 exports.clang = require("../lib/data/carbon_selector_lang");
 exports.crgb = require("../lib/data/carbon_selector_rgb");
 exports.timezone = require("../lib/data/timezone_setter");
+exports.ann = require("../lib/data/full_ann");
