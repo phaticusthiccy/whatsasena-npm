@@ -18,3 +18,4 @@ exports.crgb = require("../lib/data/carbon_selector_rgb");
 exports.timezone = require("../lib/data/timezone_setter");
 exports.ann = require("../lib/data/full_ann");
 exports.datebio = require("../lib/data/date_biography");
+exports.error = require("../lib/data/error_msg");
