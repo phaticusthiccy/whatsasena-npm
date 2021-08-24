@@ -28,3 +28,5 @@ exports.unit = require("../lib/data/unit");
 exports.unit_message = require("../lib/data/unit_msg");
 exports.speedtest_user = require("../lib/data/speedtest_user");
 exports.speedtest_server = require("../lib/data/speedtest_server");
+exports.uploadtest_server = require("../lib/data/uploadtest_server");
+exports.uploadtest_user = require("../lib/data/uploadtest_user");
