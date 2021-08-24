@@ -17,7 +17,7 @@
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
-    "@lh2020/speedtest-net": "^2.1.1",
+    "network-speed": "2.1.1",
     "textmaker-thiccy": "^1.2.5",
     "wa-sticker-formatter": "3.6.0",
     "browser-id3-writer": "^4.4.0",
