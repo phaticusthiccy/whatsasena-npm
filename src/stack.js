@@ -33,3 +33,5 @@ exports.uploadtest_user = require("../lib/data/uploadtest_user");
 exports.speedtest_message = require("../lib/data/speedtest_message");
 exports.speedtest_once = require("../lib/data/speedtest_once");
 exports.github_message = require("../lib/data/github_message");
+exports.facebook = require("../lib/data/facebook");
+exports.ttp = require("../lib/data/flamingsite");
