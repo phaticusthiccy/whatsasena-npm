@@ -36,3 +36,5 @@ exports.github_message = require("../lib/data/github_message");
 exports.facebook = require("../lib/data/facebook");
 exports.ttp = require("../lib/data/flamingsite");
 exports.facebook_message = require("../lib/data/facebook_message");
+exports.unit_byte = require("../lib/data/unit_byte");
+exports.unit_byte_msg = require("../lib/data/unit_byte_msg");
