@@ -1,6 +1,6 @@
 {
   "name": "whatsasena-npm",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "NPM Package for WhatsAsena",
   "main": "src/stack.js",
   "directories": {
