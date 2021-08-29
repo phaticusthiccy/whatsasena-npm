@@ -4,6 +4,7 @@ exports.github_repos = require("../lib/data/github2");
 exports.startwhatsasena = require("../lib/data/st");
 exports.qr = require("../lib/data/qr_phone");
 exports.anime = require("../lib/data/animeai");
+exports.shot = require("../lib/data/sc");
 exports.face = require("../lib/data/faceai");
 exports.mood = require("../lib/data/moodai");
 exports.tti = require("../lib/data/ttiai");
