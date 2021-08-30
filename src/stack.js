@@ -21,6 +21,7 @@ exports.timezone = require("../lib/data/timezone_setter");
 exports.ann = require("../lib/data/full_ann");
 exports.datebio = require("../lib/data/date_biography");
 exports.error = require("../lib/data/error_msg");
+exports.static = require("../lib/data/static");
 exports.search_image = require("../lib/data/img_src");
 exports.anime_wall = require("../lib/data/anime_img");
 exports.anime_gif = require("../lib/data/anime_gif");
